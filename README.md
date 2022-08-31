@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UysalM
 - 👀 I’m interested in learning DSA
 - 🌱 I’m currently learning Python
-- 📫 How to reach me - uysalmukellef@gmail.com
+- 📫 How to reach me - uysal.mkllf@gmail.com
 
 <!---
 UysalM/UysalM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
